@@ -32,13 +32,13 @@
 
 ### Homework3
 
-[BinarySearchTree 제출물](Homework2/BinarySearchTree/BinarySearchTree.pde)
+[BinarySearchTree 제출물](Homework3/BinarySearchTree/BinarySearchTree.pde)
 <br>
-![BinarySearchTree_Inorder 결과](Homework2/BinarySearchTree/BinarySearchTree_Inorder.png)
+![BinarySearchTree_Inorder 결과](Homework3/BinarySearchTree/BinarySearchTree_Inorder.png)
 <br>
-![BinarySearchTree_Postoreder 결과](Homework2/BinarySearchTree/BinarySearchTree_Postoreder.png)
+![BinarySearchTree_Postoreder 결과](Homework3/BinarySearchTree/BinarySearchTree_Postoreder.png)
 <br>
-![BinarySearchTree_Preorder 결과](Homework2/BinarySearchTree/BinarySearchTree_Preorder.png)
+![BinarySearchTree_Preorder 결과](Homework3/BinarySearchTree/BinarySearchTree_Preorder.png)
 <br>
 
 ### Homework4
