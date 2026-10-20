@@ -45,7 +45,7 @@
 
 [SortAnimation 제출물](Homework4/SortAnimation/SortAnimation.pde)
 <br>
-![SortAnimation 결과](Homework3/SortAnimation/SortAnimation.mp4)
+![SortAnimation 결과](Homework4/SortAnimation/SortAnimation.mp4)
 <br>
 
 
