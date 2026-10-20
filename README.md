@@ -47,5 +47,5 @@
 <br>
 ![SortAnimation 결과](Homework4/SortAnimation/SortAnimation.mp4)
 <br>
-
+[Sort Animation 유튜브 영상 보기](https://youtu.be/u98JXHCSA5E)
 
