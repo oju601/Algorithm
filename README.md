@@ -41,11 +41,17 @@
 ![BinarySearchTree_Preorder 결과](Homework3/BinarySearchTree/BinarySearchTree_Preorder.png)
 <br>
 
-### Homework4
+### Homework3
 
 [SortAnimation 제출물](Homework4/SortAnimation/SortAnimation.pde)
 <br>
 ![SortAnimation 결과](Homework4/SortAnimation/SortAnimation.mp4)
 <br>
 [Sort Animation 유튜브 영상 보기](https://youtu.be/u98JXHCSA5E)
+
+### Homework4
+
+[Infix to Postfix 제출물](InfixtoPostfix/InfixtoPostfix.pde)
+<br>
+![InfixtoPostfix 결과](InfixtoPostfix.png)
 
