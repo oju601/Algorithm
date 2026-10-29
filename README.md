@@ -53,5 +53,5 @@
 
 [Infix to Postfix 제출물](InfixtoPostfix/InfixtoPostfix.pde)
 <br>
-![InfixtoPostfix 결과](InfixtoPostfix.png)
+![InfixtoPostfix 결과](InfixtoPostfix/InfixtoPostfix.png)
 
