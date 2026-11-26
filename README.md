@@ -55,3 +55,20 @@
 <br>
 ![InfixtoPostfix 결과](InfixtoPostfix/InfixtoPostfix.png)
 
+### Homework5
+
+[PebblePlacementProblem 제출물](PebblePlacementProblem/PebblePlacementProblem.pde)
+<br>
+![PebblePlacementProblem 결과](PebblePlacementProblem/PebblePlacementProblem.png)
+
+### Homework6
+
+[BFS_and_DFS_for_a_graph 제출물](BFS_and_DFS_for_a_graph/BFS_and_DFS_for_a_graph.pde)
+<br>
+![BFS_and_DFS_for_a_graph 결과](BFS_and_DFS_for_a_graph/BFS_and_DFS_for_a_graph.png)
+
+### Homework7
+
+[Minimum_Spanning_Tree 제출물](Minimum_Spanning_Tree/Minimum_Spanning_Tree.pde)
+<br>
+![Minimum_Spanning_Tree 결과](Minimum_Spanning_Tree/Minimum_Spanning_Tree.png)
